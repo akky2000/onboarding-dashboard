@@ -56,7 +56,6 @@ cd onboard-dashboard
 
 
 
-![image](https://github.com/user-attachments/assets/bf462df9-426c-459a-bb7a-f787643f4dfa)
 
 
 
