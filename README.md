@@ -1,0 +1,62 @@
+# 🧭 Onboard Dashboard – React + Tailwind + TypeScript
+
+A responsive and smooth multi-step onboarding wizard and user dashboard built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.
+Designed for modern SaaS or admin interfaces with clean UI, form validation, and local state persistence.
+
+---
+
+## ✨ Features
+
+### ✅ Onboarding Wizard
+- Step 1: Personal Info (Name, Email)
+- Step 2: Business Info (Company Name, Industry, Size)
+- Step 3: Preferences (Theme, Dashboard Layout)
+- Progress bar to show current step
+- Input validation using TypeScript
+- Smooth transitions between steps
+
+### ✅ Dashboard
+- Auto-redirect to dashboard after onboarding
+- Displays saved user info
+- 3 summary cards:
+  - Team Members
+  - Active Projects
+  - Notifications
+- (Optional) Weekly progress chart using Recharts
+
+### ✅ UX & Dev Touches
+- Fully responsive UI with Tailwind CSS
+- Uses `localStorage` to persist user data
+- Written entirely in **TypeScript**
+- Organized folder structure and reusable components
+
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ React
+- 🔷 TypeScript
+- 🎨 Tailwind CSS
+- ⚡ Vite
+- 📦 localStorage (or React Context for state)
+- 📈 Recharts (for charts)
+- 🔧 Axios (optional for API calls)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/onboard-dashboard.git
+cd onboard-dashboard
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/bf462df9-426c-459a-bb7a-f787643f4dfa)
+
+
+
