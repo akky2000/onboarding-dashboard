@@ -44,6 +44,9 @@ Designed for modern SaaS or admin interfaces with clean UI, form validation, and
 
 ---
 
+![image](https://github.com/user-attachments/assets/49903f01-5575-4589-a3fe-b8590d23c08e)
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
