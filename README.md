@@ -43,8 +43,9 @@ Designed for modern SaaS or admin interfaces with clean UI, form validation, and
 - 🔧 Axios (optional for API calls)
 
 ---
+![image](https://github.com/user-attachments/assets/c67d91da-b897-446a-87c1-18175c5c3320)
+![image](https://github.com/user-attachments/assets/50897e13-5b4a-4548-97d3-8f91e180220b)
 
-![image](https://github.com/user-attachments/assets/49903f01-5575-4589-a3fe-b8590d23c08e)
 
 
 ## 🚀 Getting Started
