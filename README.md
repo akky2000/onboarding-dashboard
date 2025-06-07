@@ -54,6 +54,8 @@ Designed for modern SaaS or admin interfaces with clean UI, form validation, and
 ```bash
 git clone https://github.com/your-username/onboard-dashboard.git
 cd onboard-dashboard
+npm i
+npm run dev
 
 
 
