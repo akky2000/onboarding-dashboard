@@ -54,7 +54,7 @@ const Dashboard = () => {
       return;
     }
 
-    // Load user data from localStorage
+    // Load user data From LocalStorage
     const savedData = localStorage.getItem('onboardingData');
     if (savedData) {
       setUserData(JSON.parse(savedData));
